@@ -1,11 +1,14 @@
 # Forepitch: sports match forecasts vs results
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24326284.svg)](https://doi.org/10.5281/zenodo.24326284)
+
 This is every pre-match forecast published by the [Forepitch](https://forepitch.com/) statistical model since 28 September 2026, each paired with the final result: **6,849 matches in six sports** (football, hockey, tennis, basketball, volleyball and MMA).
 
 Each row holds the last estimate published before kick-off. No row is removed or edited after the result is known.
 
 - **Live data, updated daily:** https://forepitch.com/data/forepitch-record.csv
 - **Accuracy by sport and league:** https://forepitch.com/accuracy/
+- **Archived on Zenodo:** https://doi.org/10.5281/zenodo.24326284
 - **On Kaggle:** [dataset](https://www.kaggle.com/datasets/forepitch/sports-match-forecasts-vs-results-forepitch) and [notebook](https://www.kaggle.com/code/forepitch/sports-forecasts-calibration-and-brier-score)
 
 ## Files
