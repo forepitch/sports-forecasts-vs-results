@@ -1,0 +1,117 @@
+sport,competition,name,country,matches
+basketball,ACB,Liga ACB (Spanish basketball league),Spain,55
+basketball,ARGB,Liga Nacional de Básquet (Argentina),Argentina,66
+basketball,EUROC,EuroCup (basketball),Europe,92
+basketball,EUROL,EuroLeague (basketball),Europe,88
+basketball,LNBP,LNBP (Mexican basketball league),Mexico,50
+basketball,NBA,NBA (National Basketball Association),USA and Canada,205
+basketball,NBB,NBB (Novo Basquete Brasil),Brazil,66
+basketball,VTB,VTB United League (basketball),Russia,41
+football,ALG,Ligue Professionnelle 1,Algeria,8
+football,ARG,Argentine Liga Profesional,Argentina,90
+football,ARG2,Primera Nacional,Argentina,61
+football,ARGCUP,Copa Argentina,Argentina,2
+football,AUS,A-League Men (Australia),Australia,23
+football,AUT,Austrian Bundesliga,Austria,30
+football,BEL,Belgian Pro League,Belgium,36
+football,BELCUP,Belgian Cup,Belgium,16
+football,BLR,Belarusian Premier League,Belarus,45
+football,BRA,Brazilian Serie A,Brazil,64
+football,BRA2,Brazilian Serie B,Brazil,70
+football,BUL,First League,Bulgaria,7
+football,BUNDES,Bundesliga,Germany,45
+football,BUNDES2,2. Bundesliga,Germany,45
+football,CDB,Copa do Brasil (Brazilian Cup),Brazil,4
+football,CDF,Coupe de France,France,249
+football,CDR,Copa del Rey,Spain,50
+football,CHAMP,EFL Championship,England,85
+football,CHI,Chilean Liga de Primera,Chile,32
+football,CIV,Ligue 1 (Côte d'Ivoire),Ivory Coast,12
+football,COL,Colombian Primera A (Liga BetPlay),Colombia,78
+football,CRO,HNL,Croatia,5
+football,CYP,Cypriot First Division,Cyprus,7
+football,CZE,Czech First League,Czechia,8
+football,DEN,Danish Superliga,Denmark,30
+football,DFBPOKAL,DFB-Pokal,Germany,16
+football,ECU,Ecuadorian LigaPro Serie A,Ecuador,40
+football,EFLCUP,EFL Cup (Carabao Cup),England,8
+football,EGY,Egyptian Premier League,Egypt,30
+football,EPL,English Premier League,England,50
+football,FACUP,FA Cup,England,40
+football,FRIENDLY,International Friendlies,World,10
+football,GHA,Ghana Premier League,Ghana,54
+football,GRE,Super League Greece,Greece,34
+football,HUN,NB I,Hungary,6
+football,ISR,Israeli Premier League,Israel,7
+football,JPN,J1 League (Japan),Japan,60
+football,KAZ,Kazakhstan Premier League,Kazakhstan,34
+football,KOR,K League 1 (South Korea),South Korea,30
+football,KSA,Saudi Pro League,Saudi Arabia,41
+football,LALIGA,La Liga,Spain,50
+football,LALIGA2,Segunda Division,Spain,74
+football,LIBERT,CONMEBOL Copa Libertadores,South America,4
+football,LIGUE1,Ligue 1,France,45
+football,LIGUE2,French Ligue 2,France,45
+football,MAR,Botola Pro (Morocco),Morocco,41
+football,MEX,Liga MX (Mexico),Mexico,56
+football,MEX2,Liga de Expansion MX,Mexico,36
+football,MLS,Major League Soccer (MLS),USA and Canada,106
+football,NED,Eredivisie (Netherlands),Netherlands,45
+football,NED2,Eerste Divisie,Netherlands,17
+football,NGA,Nigeria NPFL,Nigeria,58
+football,NOR,Norwegian Eliteserien,Norway,40
+football,PAR,Paraguayan Primera Division,Paraguay,41
+football,PER,Peruvian Liga 1,Peru,59
+football,POL,Polish Ekstraklasa,Poland,46
+football,POR,Portuguese Primeira Liga,Portugal,36
+football,PORCUP,Taca de Portugal (Portuguese Cup),Portugal,27
+football,ROU,Liga I,Romania,8
+football,RPL,Russian Premier League,Russia,40
+football,RSA,South African Premiership,South Africa,16
+football,RUSCUP,Russian Cup,Russia,28
+football,SCO,Scottish Premiership,Scotland,33
+football,SERIEA,Serie A,Italy,60
+football,SERIEB,Serie B,Italy,60
+football,SRB,Serbian SuperLiga,Serbia,7
+football,SUDAM,CONMEBOL Copa Sudamericana,South America,4
+football,SUI,Swiss Super League,Switzerland,24
+football,SWE,Swedish Allsvenskan,Sweden,48
+football,TAN,Tanzania Premier League,Tanzania,35
+football,TUN,Ligue Professionnelle 1,Tunisia,4
+football,TUR,Turkish Super Lig,Turkey,45
+football,TURCUP,Turkish Cup,Turkey,35
+football,UCL,UEFA Champions League,Europe,54
+football,UECL,UEFA Conference League,Europe,54
+football,UEL,UEFA Europa League,Europe,54
+football,UKR,Ukrainian Premier League,Ukraine,36
+football,UNL,UEFA Nations League,Europe,122
+football,URU,Uruguayan Primera Division,Uruguay,42
+football,USOC,U.S. Open Cup (Lamar Hunt),USA,1
+football,UZB,Uzbekistan Super League,Uzbekistan,40
+hockey,AHL,AHL (American Hockey League),USA and Canada,230
+hockey,BLRH,Belarus Extraleague (hockey),Belarus,115
+hockey,CHL,Champions Hockey League (CHL),Europe,13
+hockey,CZEH,Czech Extraliga (hockey),Czechia,75
+hockey,DEL,DEL (German hockey league),Germany,73
+hockey,KAZH,Kazakhstan Hockey Championship,Kazakhstan,57
+hockey,KHL,KHL,Russia,201
+hockey,LIIGA,Liiga (Finnish hockey league),Finland,95
+hockey,NHL,NHL,USA and Canada,332
+hockey,SHL,SHL (Swedish Hockey League),Sweden,73
+hockey,SUIH,Swiss National League (hockey),Switzerland,81
+hockey,VHL,VHL (All-Russian Hockey League),Russia,194
+mma,UFC,UFC (mixed martial arts),World,53
+tennis,ATP,Tennis: ATP,World,518
+tennis,WTA,Tennis: WTA,World,469
+volleyball,VBRA,Superliga (Brazilian volleyball),Brazil,22
+volleyball,VBRAW,Superliga (Brazilian women's volleyball),Brazil,28
+volleyball,VCL,CEV Champions League (volleyball),Europe,6
+volleyball,VCLW,CEV Champions League (women's volleyball),Europe,4
+volleyball,VITA,SuperLega (Italian volleyball),Italy,27
+volleyball,VITAW,Serie A1 (Italian women's volleyball),Italy,45
+volleyball,VPOL,PlusLiga (Polish volleyball),Poland,43
+volleyball,VPOLW,Tauron Liga (Polish women's volleyball),Poland,29
+volleyball,VRUS,Russian Volleyball Super League,Russia,56
+volleyball,VRUSW,Russian Women's Volleyball Super League,Russia,37
+volleyball,VTUR,Efeler Ligi (Turkish volleyball),Turkey,31
+volleyball,VTURW,Sultanlar Ligi (Turkish women's volleyball),Turkey,41
